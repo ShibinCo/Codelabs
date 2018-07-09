@@ -1,2 +1,7 @@
-#include iostream.h
-print "Hello World";
+#include <iostream>
+#include<cstdio>
+
+int main(){
+    printf("Hello World");
+    return 0;
+}
